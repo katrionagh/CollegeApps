@@ -137,7 +137,7 @@ Timing of participation
 All year
 
 Hours spent per week
-40
+30
 
 Weeks spent per year
 52
