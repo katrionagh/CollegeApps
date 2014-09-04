@@ -1,14 +1,3 @@
-#To be completed
-
-This section is required because you indicated one or more of the following situations earlier in the application:
-You have been found responsible for a school disciplinary violation.
-You have a past history of a misdemeanor, felony, or other crime.
-You have had or will have an interruption in your education.
-You received a military discharge of Other Than Honorable.
-Please use the space below to provide details of the applicable situation(s). You may enter up to 650 words.
-
-#Completed
-
 The essay demonstrates your ability to write clearly and concisely on a selected topic and helps you distinguish yourself in your own voice. What do you want the readers of your application to know about you apart from courses, grades, and test scores? Choose the option that best helps you answer that question and write an essay of no more than 650 words, using the prompt to inspire and structure your response. Remember: 650 words is your limit, not your goal. Use the full range if you need it, but don't feel obligated to do so. (The application won't accept a response shorter than 250 words.)
 Some students have a background or story that is so central to their identity that they believe their application would be incomplete without it. If this sounds like you, then please share your story.
 Please write an essay (250-650 words) on the topic selected. You can type directly into the box, or you can paste text from another source.
@@ -31,9 +20,37 @@ As of now I am working on my own projects: I am learning math and computer scien
 
 I still don’t know what my next scientific adventure will be, but I hope to be able to test the results of my bioinformatics projects in vitro. 
 
+This section is required because you indicated one or more of the following situations earlier in the application:
+You have been found responsible for a school disciplinary violation.
+You have a past history of a misdemeanor, felony, or other crime.
+You have had or will have an interruption in your education.
+You received a military discharge of Other Than Honorable.
+Please use the space below to provide details of the applicable situation(s). You may enter up to 650 words.
+
+Since I was very young, I’ve always had a passion for learning and an insatiable curiosity. Since I learned to read and count, books and math have been my 2 best friends. Books had the power to transport me to unknown lands, away from my problems. They also contained answers to my questions, and the more I read the more I learned.
+
+Math was beautiful. I loved discovering new properties and uses of numbers. I started studying math by myself on Khan Academy, and soon I was almost ready for calculus, even though I was just a 6th grader. 
+
+I started calculus, and I also started math Olympiad training at a local university. It was then when I heard about a math program in Cornell University called AwesomeMath. I really wanted to attend the program, and I told my teachers about it. To my surprise, they were not supportive of my efforts to attend the program; which was the tipping point that led me to drop out of school. School was not satisfying my intellectual curiosity, and I wasn’t getting the support I needed to satisfy it. 
+
+Around the same time, a new school opened in Guatemala. It was called Acton Academy. Acton was a school unlike any other. There weren’t grades, teachers or a set curriculum. I was free to learn what I wanted, I could socialize with peers equally passionate about learning, I got to work on projects and participate in socratic discussions. 
+
+About a year after entering Acton Academy, I was flourishing. I discovered my intellectual curiosity was never satisfied, but I was given a remarkable amount of freedom, which I then used to try to focus on answering the right questions. 
+
+It was at Acton that I was first exposed to biology. I was hooked. Neuroscience was what called my attention the most. How could a set of cells and electrical impulses could determine who we where? How could our brain store knowledge? What happened on different brain disorders, like Alzheimer’s, ALS and Schizophrenia that made the brain stop working properly? I knew I wanted to learn as much as I could about how the brain works, the next step was finding the right problem to work on. 
+
+A mentor of mine was diagnosed with Amyotrophic lateral sclerosis when I was 11. ALS is a disease in which motor neurons die, leaving patients paralyzed until they die within 3-5 years. Up to that point, I was oblivious about what was going on in his brain; I could just see his body slowly deteriorating. After reading a fair amount of papers, I decided I wanted to work on ALS, and I started working at a lab at UCSF.
+ 
+Working at the lab was a great experience, but there were still several things I did not know about biology that I wasn’t picking up at the bench. For that reason I decided to start taking graduate level courses at UCSF. I finished all the courses for the Tetrad program at UCSF, and I started auditing classes at Stanford. 
+
+Currently I spend most of my time doing research/reading papers, teaching myself math and CS and auditing classes at Stanford. I do not have a high school degree yet but I will get one from Beach High School pretty soon, and I’ll end up graduating 2 years earlier than I would have if I had continued going down a traditional path. 
+
+In conclusion, I changed schools when I was in 6th grade, went to Acton Academy for a year, then was homeschooled and will graduate 2 years earlier with a diploma from Beach High School. 
+
 
 Have you ever been found responsible for a disciplinary violation at any educational institution you have attended from the 9th grade (or the international equivalent) forward, whether related to academic misconduct or behavioral misconduct, that resulted in a disciplinary action? These actions could include, but are not limited to: probation, suspension, removal, dismissal, or expulsion from the institution.
 No
+
 Have you ever been adjudicated guilty or convicted of a misdemeanor, felony, or other crime? Note that you are not required to answer "yes" to this question, or provide an explanation, if the criminal adjudication or conviction has been expunged, sealed, annulled, pardoned, destroyed, erased, impounded, or otherwise ordered by a court to be kept confidential.
 No
 
