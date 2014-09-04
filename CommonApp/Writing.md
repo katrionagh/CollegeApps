@@ -1,4 +1,4 @@
-The essay demonstrates your ability to write clearly and concisely on a selected topic and helps you distinguish yourself in your own voice. What do you want the readers of your application to know about you apart from courses, grades, and test scores? Choose the option that best helps you answer that question and write an essay of no more than 650 words, using the prompt to inspire and structure your response. Remember: 650 words is your limit, not your goal. Use the full range if you need it, but don't feel obligated to do so. (The application won't accept a response shorter than 250 words.)
+###The essay demonstrates your ability to write clearly and concisely on a selected topic and helps you distinguish yourself in your own voice. What do you want the readers of your application to know about you apart from courses, grades, and test scores? Choose the option that best helps you answer that question and write an essay of no more than 650 words, using the prompt to inspire and structure your response. Remember: 650 words is your limit, not your goal. Use the full range if you need it, but don't feel obligated to do so. (The application won't accept a response shorter than 250 words.)
 Some students have a background or story that is so central to their identity that they believe their application would be incomplete without it. If this sounds like you, then please share your story.
 Please write an essay (250-650 words) on the topic selected. You can type directly into the box, or you can paste text from another source.
 
@@ -20,12 +20,7 @@ As of now I am working on my own projects: I am learning math and computer scien
 
 I still don’t know what my next scientific adventure will be, but I hope to be able to test the results of my bioinformatics projects in vitro. 
 
-This section is required because you indicated one or more of the following situations earlier in the application:
-You have been found responsible for a school disciplinary violation.
-You have a past history of a misdemeanor, felony, or other crime.
-You have had or will have an interruption in your education.
-You received a military discharge of Other Than Honorable.
-Please use the space below to provide details of the applicable situation(s). You may enter up to 650 words.
+###This section is required because you indicated one or more of the following situations earlier in the application: You have been found responsible for a school disciplinary violation. You have a past history of a misdemeanor, felony, or other crime. You have had or will have an interruption in your education. You received a military discharge of Other Than Honorable. Please use the space below to provide details of the applicable situation(s). You may enter up to 650 words.
 
 Since I was very young, I’ve always had a passion for learning and an insatiable curiosity. Since I learned to read and count, books and math have been my 2 best friends. Books had the power to transport me to unknown lands, away from my problems. They also contained answers to my questions, and the more I read the more I learned.
 
